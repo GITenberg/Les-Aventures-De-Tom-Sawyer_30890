@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30890#Les-Aventures-De-Tom-Sawyer
 gutenberg_issued: '2010-01-08'
 gutenberg_type: Text
 identifiers:
