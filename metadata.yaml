@@ -1,0 +1,51 @@
+_repo: Les-Aventures-De-Tom-Sawyer_30890
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Carner, Josep
+    alias: D'Albaflor, Joan
+    birthdate: 1884
+    deathdate: 1971
+    gutenberg_agent_id: '7107'
+    url: http://www.gutenberg.org/2009/agents/7107
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Josep_Carner
+    - http://ca.wikipedia.org/wiki/Josep_Carner_i_Puig-Oriol
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2010-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30890'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Sawyer, Tom (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Mississippi River Valley -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Child witnesses -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+title: Les Aventures De Tom Sawyer
+url: http://www.gutenberg.org/ebooks/30890
